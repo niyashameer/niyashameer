@@ -1,4 +1,4 @@
-![Niya's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyashameer&show_icons=true&theme=dark)
+![Niya's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyashameer&count_private=true&show_icons=true&theme=dark)
 
 
 <!--
