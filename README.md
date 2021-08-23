@@ -2,7 +2,8 @@
 ## Hi there, I'm Niya!
 
 ![Niya's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyashameer&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyashameer&layout=compact&theme=dark)](https://github.com/niyashameer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyashameer&layout=compact&theme=dark)](https://github.com/niyashameer/github-readme-stats)  ![comment](https://user-images.githubusercontent.com/64061322/130455141-34210beb-6219-4f92-bf34-86a574b8760c.png)
+
 
 <!--
 **niyashameer/niyashameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
