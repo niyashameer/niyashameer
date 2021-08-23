@@ -2,7 +2,7 @@
 ## Hi there, I'm Niya!
 
 ![Niya's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyashameer&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyashameer&layout=compact&theme=dark)](https://github.com/niyashameer/github-readme-stats)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niyashameer&theme=gruvbox&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niyashameer&layout=compact&theme=dark)](https://github.com/niyashameer/github-readme-stats)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=niyashameer&theme=onedark_duo)](https://git.io/streak-stats)
 
 
 <!--
