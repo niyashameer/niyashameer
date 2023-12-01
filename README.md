@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Well, hello there!</h1>
 
 
-<p>Welcome to my page! </br> I'm Niya Shameer, Frontend developer from <img src="https://flagcdn.com/16x12/in.png" width="13"/> <b>Bengaluru, India</b>. Currently living in <b>Chennai, India</b>. </p>
+<p>Welcome to my page! </br> I'm Niya Shameer, Full Stack developer from <img src="https://flagcdn.com/16x12/in.png" width="13"/> <b>Bengaluru, India</b>. Currently living in <b>Chennai, India</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
