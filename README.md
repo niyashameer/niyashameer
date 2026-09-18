@@ -73,8 +73,6 @@
 </p>
 
 ------------
-
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=fyfgd5yrw4o9gf8tq5yr85o4k)
 <!--
 **niyashameer/niyashameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
